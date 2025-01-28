@@ -1,12 +1,12 @@
 # 💻 Jose Quispe - Data Scientist 🚀
 
-¡Hola! 👋 Soy *Jose Quispe, un apasionado **Data Scientist* con experiencia en la creación de soluciones impulsadas por datos que generan impacto real. Mi objetivo es transformar datos en decisiones estratégicas mediante análisis avanzado, machine learning y visualizaciones efectivas.
+¡Hola! 👋 Soy *Jose Quispe, un apasionado **Data Scientist** con experiencia en la creación de soluciones impulsadas por datos que generan impacto real. Mi objetivo es transformar datos en decisiones estratégicas mediante análisis avanzado, machine learning y visualizaciones efectivas.
 
 ---
 
 ## 🌟 Sobre mí
 
-- 🎓 *Educación*: [Tu formación, por ejemplo, Licenciatura en Estadística, Máster en Ciencia de Datos].
+- 🎓 *Educación*: Data Scientist.
 - ⚙️ *Habilidades principales*:
   - *Lenguajes*: Python, R, SQL
   - *Frameworks*: Scikit-learn, TensorFlow, PyTorch, pandas
@@ -36,14 +36,12 @@
 - Modelo basado en filtrado colaborativo para recomendar productos según las preferencias del cliente.
 - Herramientas: Python, PyTorch.
 
-Puedes encontrar más proyectos en mi [repositorio](https://github.com/TuUsuario).
-
 ---
 
 ## 📬 Conecta conmigo
 
-- 🌐 *Portafolio*: [Tu web o enlace a LinkedIn](#)
-- 📧 *Email*: [tuemail@example.com](mailto:tuemail@example.com)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/qjose)
+- 📧 *Email*: [qjose727@gmail.com](mailto:qjose727@gmail.com)
 
 ---
 
