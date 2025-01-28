@@ -6,7 +6,7 @@
 
 ## 🌟 Sobre mí
 
-- 🎓 *Educación*: Data Scientist.
+- 🎓 *Educación*: Data Scientist | Data Engeenier | Data Analytics
 - ⚙️ *Habilidades principales*:
   - *Lenguajes*: Python, R, SQL
   - *Frameworks*: Scikit-learn, TensorFlow, PyTorch, pandas
@@ -40,13 +40,9 @@
 
 ## 📬 Conecta conmigo
 
--  *Linkedin*: [Jose Quispe](www.linkedin.com/in/qjose)
+-  *Linkedin*: [Jose Quispe](www.linkedin.com/in/qjose/)
 - 📧 *Email*: [qjose727@gmail.com](mailto:qjose727@gmail.com)
 
 ---
-
-## 🚀 Mi Filosofía
-
-> "Los datos cuentan historias; mi misión es encontrarlas, entenderlas y compartirlas de forma que importen."
 
 ✨ Siempre aprendiendo y explorando nuevas formas de resolver problemas. ¡Hablemos y colaboremos! 😊
