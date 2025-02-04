@@ -1,6 +1,6 @@
 # 💻 Jose Quispe - Data Scientist 🚀
 
-¡Hola! 👋 Soy *Jose Quispe, un apasionado **Data Scientist** con experiencia en la creación de soluciones impulsadas por datos que generan impacto real. Mi objetivo es transformar datos en decisiones estratégicas mediante análisis avanzado, machine learning y visualizaciones efectivas.
+¡Hola! 👋 Soy **Jose Quispe**, un apasionado **Data Scientist** con experiencia en la creación de soluciones impulsadas por datos que generan impacto real. Mi objetivo es transformar datos en decisiones estratégicas mediante análisis avanzado, machine learning y visualizaciones efectivas.
 
 ---
 
