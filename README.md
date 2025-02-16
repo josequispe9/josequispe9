@@ -24,7 +24,7 @@ Here are some of my key projects:
 
 ## 📫 How to Reach Me  
 >Email: qjose727@gmail.com  
->LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/qjose)  
+>LinkedIn: [linkedin.com/in/qjose](https://www.linkedin.com/in/qjose)  
 
 ## ⭐ Fun Fact  
 I’m passionate about applying AI to solve real-world problems and love learning about emerging technologies!
