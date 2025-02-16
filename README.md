@@ -14,17 +14,13 @@ I specialize in developing and optimizing **Machine Learning** and **Deep Learni
 ## 🚀 Projects  
 Here are some of my key projects:  
 
-### 1. **NYC Electric Fleet Viability Study**  
+### 1. **NYC Electric Fleet Viability Study**  - contributor
 >Analyzed urban mobility data to evaluate the feasibility of implementing an electric taxi fleet in NYC. Built predictive models for route optimization and developed interactive dashboards for KPI visualization.  
->[🔗 View Project](https://github.com/yourusername/project-link)  
-
-### 2. **eCommerce Chatbot for Sports Supplements**  
->Developed an NLP-powered chatbot to automate customer queries and improve sales. Integrated real-time databases and optimized marketing campaigns, increasing conversions by 25%.  
->[🔗 View Project](https://github.com/yourusername/project-link)  
+>[🔗 View Project](https://github.com/lmunozm1702/taxi_electrico_nyc)  
 
 ### 3. **Movie Recommendation System**  
 >Built a content-based recommendation system using cosine similarity and NLP techniques. Deployed the system on Render with Flask for real-time API queries.  
->[🔗 View Project](https://github.com/yourusername/project-link)  
+>[🔗 View Project](https://github.com/josequispe9/Proyecto-Indiviadual-1.2)  
 
 ## 📫 How to Reach Me  
 >Email: qjose727@gmail.com  
