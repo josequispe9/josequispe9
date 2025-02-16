@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Jose Quispe
 >Data Scientist | Machine Learning Engineer | Passionate about AI and Big Data  
 
 ## 🌟 About Me  
@@ -27,9 +27,8 @@ Here are some of my key projects:
 >[🔗 View Project](https://github.com/yourusername/project-link)  
 
 ## 📫 How to Reach Me  
->Email: your.email@example.com  
->LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
->Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+>Email: qjose727@gmail.com  
+>LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/qjose)  
 
 ## ⭐ Fun Fact  
 I’m passionate about applying AI to solve real-world problems and love learning about emerging technologies!
