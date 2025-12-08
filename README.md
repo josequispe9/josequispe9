@@ -10,16 +10,6 @@ Data Scientist with expertise in developing and optimizing Machine Learning and 
 - **Data Visualization**: Power BI, Streamlit, Matplotlib, Seaborn  
 - **Frameworks & Tools**: Flask, Dash, Git, CI/CD Pipelines  
 
-## Projects  
-Here are some of my key projects:  
-
-### 1. **NYC Electric Fleet Viability Study**  - contributor 
-Analyzed urban mobility data to evaluate the feasibility of implementing an electric taxi fleet in NYC. Built predictive models for route optimization and developed interactive dashboards for KPI visualization.  
-> [View Project](https://github.com/lmunozm1702/taxi_electrico_nyc)  
-
-### 2. **Movie Recommendation System**
-Built a content-based recommendation system using cosine similarity and NLP techniques. Deployed the system on Render with Flask for real-time API queries.  
-> [View Project](https://github.com/josequispe9/Proyecto-Indiviadual-1.2) 
 
 ## Contact
 If you'd like to collaborate on a project, discuss AI/ML trends, or explore job opportunities, feel free to reach out!  
