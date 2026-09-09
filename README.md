@@ -1,29 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Jose%20Quispe&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Jose%20Quispe&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer%20%7C%20LLM%20%26%20Voice%20AI%20%7C%20Python%20Automation&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/qjose"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:qjose727@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+ML+%2F+Deep+Learning+Engineer;Building+data+pipelines+with+GCP%2C+BigQuery+%26+Airflow;Turning+messy+data+into+production-ready+models" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+LLM+%26+Voice+AI;Building+conversational+LLM+%26+voice+pipelines;Python+automation+%2B+data+pipelines+at+scale" alt="Typing SVG" />
 
 </div>
 
 ## About Me
 
-Data Scientist with expertise in developing and optimizing Machine Learning and Deep Learning models. Proficient in handling large-scale data using tools like BigQuery, MongoDB, and Airflow, as well as implementing scalable cloud solutions on Google Cloud Platform (GCP). Skilled in building robust data pipelines, performing exploratory data analysis, and deploying models into production environments. Passionate about leveraging AI innovation and emerging technologies to solve complex real-world problems.
+Data Engineer focused on building automation and data pipelines, with recent hands-on experience developing conversational LLM systems — both text and voice. Skilled in large-scale data handling (BigQuery, MongoDB), workflow orchestration with Apache Airflow, and scalable cloud solutions on Google Cloud Platform (GCP). Passionate about leveraging AI innovation and emerging technologies to solve complex real-world problems.
 
 <details>
 <summary><b>🔭 What I work with day to day</b></summary>
 <br/>
 
-- Designing and maintaining **ML/DL pipelines** end-to-end, from raw data to production
-- Working with **large-scale data** in BigQuery and MongoDB
+- Building **conversational LLM systems** (text & voice)
+- Automating workflows and processes with **Python**
+- Designing and maintaining **data pipelines** end-to-end
 - Orchestrating workflows with **Apache Airflow**
+- Working with **large-scale data** in BigQuery and MongoDB
 - Deploying on **Google Cloud Platform**
-- Building dashboards and internal tools with **Streamlit / Power BI / Dash**
 
 </details>
 
@@ -31,7 +32,7 @@ Data Scientist with expertise in developing and optimizing Machine Learning and 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,sklearn,pandas,numpy,gcp,docker,flask,git" />
+<img src="https://skillicons.dev/icons?i=py,openai,tensorflow,pytorch,sklearn,pandas,numpy,gcp,docker,flask,git" />
 
 </div>
 
