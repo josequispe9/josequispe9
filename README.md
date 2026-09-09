@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=320&section=header&text=Jose%20Quispe&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Engineer%20%7C%20LLM%20and%20Voice%20AI%20%7C%20Python%20Automation&descAlignY=62&descSize=22" width="100%"/>
 
-<a href="https://github.com/josequispe9"><img src="https://img.shields.io/badge/-Portfolio-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://josequispe9.github.io/"><img src="https://img.shields.io/badge/-Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 <br/>
 
