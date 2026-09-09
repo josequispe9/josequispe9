@@ -4,8 +4,6 @@
 
 <a href="https://www.linkedin.com/in/qjose"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:qjose727@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=josequispe9&color=2563eb&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/josequispe9?label=Followers&style=flat-square&color=2563eb" />
 
 <br/>
 
