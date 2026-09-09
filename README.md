@@ -32,7 +32,7 @@ Data Engineer focused on building automation and data pipelines, with recent han
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,gcp,docker,flask,git" />
+<img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,sklearn,gcp,docker,flask,git" />
 
 </div>
 
