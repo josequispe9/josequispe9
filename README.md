@@ -42,8 +42,8 @@ If you'd like to collaborate on a project, discuss AI/ML trends, or explore job 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Jose%20Quispe-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qjose)
-[![Gmail](https://img.shields.io/badge/-qjose727%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:qjose727@gmail.com)
+<a href="https://www.linkedin.com/in/qjose"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:qjose727@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 
 </div>
 
