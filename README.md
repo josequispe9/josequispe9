@@ -12,7 +12,7 @@
 
 ## About Me
 
-Data Engineer focused on building automation and data pipelines, with recent hands-on experience developing conversational LLM systems — both text and voice. Skilled in large-scale data handling (BigQuery, MongoDB), workflow orchestration with Apache Airflow, and scalable cloud solutions on Google Cloud Platform (GCP). Passionate about leveraging AI innovation and emerging technologies to solve complex real-world problems.
+Data Engineer focused on building automation and data pipelines, with recent hands-on experience developing conversational LLM systems — both text and voice. Background spans data analysis and data science before moving into engineering. Skilled in large-scale data handling (BigQuery, MongoDB), workflow orchestration with Apache Airflow, and scalable cloud solutions on Google Cloud Platform (GCP). Passionate about leveraging AI innovation and emerging technologies to solve complex real-world problems.
 
 <details>
 <summary><b>🔭 What I work with day to day</b></summary>
