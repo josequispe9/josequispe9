@@ -35,14 +35,6 @@ Data Scientist with expertise in developing and optimizing Machine Learning and 
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=josequispe9&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
 ## 📫 Let's Connect
 
 If you'd like to collaborate on a project, discuss AI/ML trends, or explore job opportunities, feel free to reach out!
