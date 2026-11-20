@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=320&section=header&text=Jose%20Quispe&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLM%20%26%20Voice%20AI%20Agents%20%7C%20Data%20Engineer&descAlignY=62&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=320&section=header&text=Jose%20Quispe&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLM%20and%20Voice%20AI%20Agents%20%7C%20Data%20Engineer&descAlignY=62&descSize=22" width="100%"/>
 
 <a href="https://josequispe9.github.io/"><img src="https://img.shields.io/badge/-Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/qjose"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
